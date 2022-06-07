@@ -89,11 +89,10 @@
     background-color: #f5c542;
   }
   .yellowExample2 {
-    width : 270px;
-    flex-shrink: 5;
-    flex-grow : 0;
+    width : 15%;
+    height: inherit;
     background-color: #f5c542;
-  }
+  } 
   .space_between {
     justify-content: space-between;
   }
